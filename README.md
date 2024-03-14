@@ -1,4 +1,4 @@
-- hi, i’m @Yirsi
+- hi, i’m @yirsi
 - studying computer engineering
 - vim enjoyer
 - i use arch btw
