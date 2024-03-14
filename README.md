@@ -1,3 +1,5 @@
-- Hi, I’m @Yirsi
-- Currently studying Computer Engineering
-- I do music in my freetime
+- hi, i’m @Yirsi
+- studying computer engineering
+- vim enjoyer
+- i use arch btw
+- i make music n stuff
