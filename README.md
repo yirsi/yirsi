@@ -1,5 +1,5 @@
 - hi, i’m @yirsi
 - studying computer engineering
-- vim enjoyer
+- nvim enjoyer
 - i use arch btw
-- i make music n stuff
+- obsidian.md user
